@@ -1,2 +1,2 @@
 google-api-python-client
-python-logilab-common
+logilab-common
