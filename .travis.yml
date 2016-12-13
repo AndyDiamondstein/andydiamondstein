@@ -3,4 +3,4 @@ language: python
 python:
     - 2.7
     
-script: py.test
+script: py.test yt-data-api.py
