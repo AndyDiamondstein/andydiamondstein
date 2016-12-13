@@ -4,4 +4,4 @@ python:
     - 2.7
     - 3.3
     
-script: pytest yt-data-api.py
+script: py.test yt-data-api.py
