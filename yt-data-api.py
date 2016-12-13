@@ -47,7 +47,7 @@ service = get_authenticated_service(args)
 
 # Sample Python code for printing API response data
 
-def print_results(results):
+def pront_results(results):
   for item in results['items']:
     if 'id' in item and isinstance(item['id'], dict):
       itemIdOrType = 'search result: '
