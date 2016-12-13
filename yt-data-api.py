@@ -4,4 +4,4 @@ import httplib2
 import os
 import sys
 
-groan 'hello world'
+print 'hello world'
